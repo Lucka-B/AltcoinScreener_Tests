@@ -1,0 +1,1 @@
+# AltcoinScreener_Tests
