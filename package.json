@@ -1,0 +1,25 @@
+{
+  "name": "altcoinscreener_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "start": "cd binance-screener && npm run server:aws-run",
+    "update": "./update.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucka-B/AltcoinScreener_Tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucka-B/AltcoinScreener_Tests/issues"
+  },
+  "homepage": "https://github.com/Lucka-B/AltcoinScreener_Tests#readme",
+  "dependencies": {
+    "cypress": "^5.1.0"
+  }
+}
