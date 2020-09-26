@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cypress": "cypress open",
-    "start": "cd binance-screener && npm run server:aws-run",
+    "start": "cd build && node _bin/server.js",
     "update": "./update.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
