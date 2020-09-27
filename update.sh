@@ -1,4 +1,5 @@
 # clone repository
+rm -rf build/*
 git clone git@gitlab.com:martin2201/binance-screener.git
 cd binance-screener
 # install packages

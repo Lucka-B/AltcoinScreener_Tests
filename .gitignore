@@ -1,3 +1,4 @@
 node_modules/
 binance-screener/
+cypress/integration/examples
 build/cachedData.json

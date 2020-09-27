@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Lucka-B/AltcoinScreener_Tests#readme",
   "dependencies": {
-    "cypress": "^5.1.0"
+    "cypress": "^5.2.0"
   }
 }
