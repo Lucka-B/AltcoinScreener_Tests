@@ -20,5 +20,12 @@ context('Altcoin_screener_tests', () => {
         .should('not.be.undefined');
     })
   })
+
+  describe('interactive components on the page are working', () => {
+    it('opens exchange dropdown while clicking on exchange name', () => {
+      // TODO:
+      // cy.get('.ant-btn.ant-dropdown-trigger')
+    })
+  })
 })
 
